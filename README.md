@@ -8,8 +8,8 @@ This application connects to an SQLite database, processes data, and visualizes 
 ### 1. Clone the repository
 
 <!-- ```bash -->
-git clone https://github.com/yourusername/repository_name.git
-cd repository_name
+git clone https://github.com/Pawanverma9660/Data_Processing-and-Visualization.git
+
 
 
 ### 2. Create a virtual environment and activate it.
